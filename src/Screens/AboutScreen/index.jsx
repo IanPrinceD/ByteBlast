@@ -1,6 +1,4 @@
 function AboutScreen() {
-  return (
-    <div>AboutScreen</div>
-  )
+  return <div>AboutScreen</div>;
 }
 export default AboutScreen;
